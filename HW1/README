@@ -1,0 +1,9 @@
+IEMS 308 Clustering Assignment Files
+
+1. "Executive Summary of Clustering Experiments": Provides an overview of the homework assignment and includes an analysis of the results
+
+2." Output for SQL code": Code used to subset original dataset and to understand the data
+
+3. "Clustering file": Contains the python code used for exploratory data analysis and for the clustering experiments
+
+4. "MTablePythonShort": Subsetted dataset from SQL
