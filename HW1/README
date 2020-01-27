@@ -5,5 +5,3 @@ IEMS 308 Clustering Assignment Files
 2." Output for SQL code": Code used to subset original dataset and to understand the data
 
 3. "Clustering file": Contains the python code used for exploratory data analysis and for the clustering experiments
-
-4. "MTablePythonShort": Subsetted dataset from SQL
